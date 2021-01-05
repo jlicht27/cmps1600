@@ -1,0 +1,43 @@
+SIMULATING FL
+
+Year 0 ; Wealth: -47500
+Year 1 ; Wealth: -30165
+Year 2 ; Wealth: -10928
+Year 3 ; Wealth: 10228
+Year 4 ; Wealth: -165256
+Year 5 ; Wealth: -138648
+Year 6 ; Wealth: -110015
+Year 7 ; Wealth: -79381
+Year 8 ; Wealth: -46744
+Year 9 ; Wealth: -12082
+Year 10; Wealth: 24647
+Year 11; Wealth: 63507
+Year 12; Wealth: 104461
+Year 13; Wealth: 147537
+Year 14; Wealth: 192874
+Year 15; Wealth: 240622
+Year 16; Wealth: 290940
+Year 17; Wealth: 343996
+Year 18; Wealth: 399974
+Year 19; Wealth: 459065
+Year 20; Wealth: 521477
+Year 21; Wealth: 587430
+Year 22; Wealth: 657159
+Year 23; Wealth: 730911
+Year 24; Wealth: 808385
+Year 25; Wealth: 889839
+Year 26; Wealth: 975554
+Year 27; Wealth: 1065826
+Year 28; Wealth: 1160976
+Year 29; Wealth: 1261344
+Year 30; Wealth: 1367296
+Year 31; Wealth: 1479222
+Year 32; Wealth: 1597541
+Year 33; Wealth: 1722701
+Year 34; Wealth: 1855180
+Year 35; Wealth: 1995490
+Year 36; Wealth: 2144180
+Year 37; Wealth: 2301836
+Year 38; Wealth: 2469086
+Year 39; Wealth: 2646602
+Year 40; Wealth: 2835102

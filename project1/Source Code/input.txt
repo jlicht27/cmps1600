@@ -1,0 +1,6 @@
+Coolest Person Award
+4
+Jonathan;Rhode Island
+Forrest;California
+Luke;Oregon
+Lukas;Minnesota

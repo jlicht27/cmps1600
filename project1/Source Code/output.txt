@@ -1,0 +1,8 @@
+RESULTS - Coolest Person Award
+------------------------------
+Jonathan - Rhode Island           2
+Forrest - California              1
+Luke - Oregon                     0
+Lukas - Minnesota                 0
+
+WINNER: Jonathan - Rhode Island
